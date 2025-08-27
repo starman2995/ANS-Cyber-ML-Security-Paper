@@ -6,4 +6,6 @@ This repository is to hold the academic article I published and presented at the
 
 While the paper itself wasn't published, at the very least you can see the paper and details in the program on their website. The presentation was in the following section in the program: "Mo3T3 Machine Learning and Artificial Intelligence - 1 ".
 
-https://www.xcdsystem.com/cns/program/WhwyuO1/index.cfm
+Conference main website: https://mc2023.com/
+
+Program for Conference: https://www.xcdsystem.com/cns/program/WhwyuO1/index.cfm
